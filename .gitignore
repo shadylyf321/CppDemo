@@ -1,0 +1,7 @@
+*.vscode
+*.exe
+*.vs
+Thread*
+.DS_Store
+*workspace
+*/build
